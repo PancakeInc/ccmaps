@@ -1,0 +1,10 @@
+{
+  "name": "ccmaps",
+  "version": "0.0.3",
+  "author": "cyberbit",
+  "description": "Slippy vector map viewer (CCMaps by cyberbit). Needs an advanced computer and HTTP.",
+  "os_version": "1.0.0",
+  "dependencies": [],
+  "files": ["ccmaps.lua", "plotter.lua"],
+  "bin": { "ccmaps": "ccmaps.lua" }
+}
